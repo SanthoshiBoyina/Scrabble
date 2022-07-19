@@ -1,4 +1,4 @@
-# scrabble
+# Scrabble
 
 Description
 -----------
