@@ -1,11 +1,13 @@
 # Scrabble
 
-Description
+## Description
 -----------
 
 Scrabble is a Word Game, in which two to four players score points by placing Tiles, each bearing a Single Letter, onto a Game Board divided into a 15×15 grid of squares.
 
-Rules
+
+
+## Rules
 -----
 
 *  Before the game begins, all players should agree upon the dictionary that they will use, in case of a challenge.
